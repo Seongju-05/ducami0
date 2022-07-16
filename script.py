@@ -37,8 +37,3 @@ informations = {
   "좋아하는 영화": "코렐라인"
 }
 information(informations)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priv
